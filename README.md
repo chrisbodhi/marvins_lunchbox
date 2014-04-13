@@ -9,6 +9,14 @@ deployed at the lunar poles.  On the lunar poles, as with any pole, there are
 long periods of sunlight coming in nearly horizontally, but from any direction
 around the horizon.  The other half of the orbital period is dark.
 
+The intent of the project is to provide a source of food (spirulina algae, which
+is directly edible by humans) and to produce and bottle the oxygen that the algae
+produces.  After the nutrients from growing the algae are exhausted and all of the
+oxygen has been produced, the algae can be harvested for consumption and
+sterilized waste could be used to produce the next generation of food.  Since the
+sun is not available for about 6 months out of the year it gets very cold on the
+moon's pole and the crop can freeze in place waiting to be harvested as needed.
+
 The robotic greenhouse needs to position itself in orientation to the sun, when
 it's available, and gather light into the greenhouse by opening its lid, which
 has a curved reflective inner surface.  If there is too much light, so that the
