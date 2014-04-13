@@ -84,7 +84,7 @@ task main()
 		//  run the lid motor forwards to open it a bit more.
 		if ( SensorValue[lightSensor1] + SensorValue[lightSensor2] > 50 )
 		{
-			if( nMotorEncoder[LidAngle] > -65 )
+			if( nMotorEncoder[LidAngle] > -55 )
 			{
 				motor[Lid] = 10;
 			}
